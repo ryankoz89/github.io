@@ -7,3 +7,5 @@ const sortStuff = arr => arr.sort((a, b) => b - a);
 // Should print [ 2018, 2011, 1999, 1982, 1970, 1963, 1951, 1922 ]
 console.log(sortStuff(years));
 console.log(sortStuff(times));
+
+console.log("I like cats.")
